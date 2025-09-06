@@ -24,6 +24,7 @@
     "@types/react-dom": "^19",
     "@vitejs/plugin-react": "^5.0.2",
     "jsdom": "^26.1.0",
+    "msw": "^2.11.1",
     "tailwindcss": "^4",
     "typescript": "^5",
     "vite-tsconfig-paths": "^5.1.4",
